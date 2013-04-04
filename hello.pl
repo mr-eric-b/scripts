@@ -2,4 +2,4 @@
 
 print "hello \n";
 
-
+print "hi \n";
