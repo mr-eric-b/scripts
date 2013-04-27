@@ -61,7 +61,7 @@ if($response->is_success())
 
 	# convert %update hash to JSON string
 	my $json_update = encode_json(\%update);
-	print $json_update;
+	#print $json_update;
 
 	# PUT
 	# make request to update the brand
